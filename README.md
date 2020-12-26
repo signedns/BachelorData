@@ -1,5 +1,5 @@
 # BachelorData 
-I denne mappe findes mit dataset (DATA_CLEAN_1902) som jeg har transkriberet fra protokoller fra Psykaitrisk Hospital Risskov. PDF'er af disse originaler kilder kan også findes i mappen.
+I denne mappe findes mit dataset (DATA_CLEAN_1902) som jeg har transkriberet fra protokoller fra Psykiatrisk Hospital Risskov. PDF'er af disse originaler kilder kan også findes i mappen.
 
 Hele mappen kan hentes som ZIP-fil. Øverst i højre hjørne findes den grønne knap "CODE" -> "Download ZIP". 
 
